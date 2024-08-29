@@ -75,6 +75,7 @@ body{
 }
 
 .border-bottom-gradient{
+    color: #7b0023;
     display: inline-block;
     background-image: linear-gradient(to right, #a50231, #db2742, #c45e74);
     background-position: bottom;
